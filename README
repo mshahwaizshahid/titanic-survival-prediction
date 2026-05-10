@@ -1,0 +1,14 @@
+# Titanic Survival Prediction 🚢
+
+This project predicts survival of passengers using Machine Learning (Random Forest).
+
+## Features
+- Data cleaning
+- Feature engineering
+- Model training
+- User input prediction
+
+## Tech Used
+- Python
+- Pandas
+- Scikit-learn
